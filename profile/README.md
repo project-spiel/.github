@@ -1,5 +1,3 @@
-<img alt="libspiel logo" align="right" src="https://raw.githubusercontent.com/eeejay/spiel/main/spiel-logo.svg">
-
 # Spiel
 
 ## Overview
